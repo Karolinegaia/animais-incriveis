@@ -41,7 +41,9 @@ decididos alguns grupos de endpoints que devem ser criados.
 <a id="ancora3"></a>
 ## Execução 💻
 
-<img src=""> 
+<img src="./img/site.png">
+
+<img src="./img/site-celular.png"> 
 
 
 <br>
